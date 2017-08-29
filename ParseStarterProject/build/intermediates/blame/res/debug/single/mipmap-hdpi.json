@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi/ic_instagram.png",
+        "source": "/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/src/main/res/mipmap-hdpi/ic_instagram.png"
+    },
+    {
+        "merged": "/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/.android/build-cache/711d4f66525262bd630ca3fa63b297168b410602/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e8d3ebf314ee3299eb58e694f8b39cb2ec5c36f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/.android/build-cache/711d4f66525262bd630ca3fa63b297168b410602/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_0926038e2b853e6ee57439c7afb23bfd771a5633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="870ca0026649efd017fa8db3d94af3c8c5636f5d">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d8fdbd1240814cba293ee689c9973d0a2a6b6d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_b2b2dbd1c53e9994a964f9fa1d4b099d9ea576bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/.android/build-cache/52cb353b41a59e546c54996c4292a2cc4b399156/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edde0ca3ac63610c877e323d1f0410f7ce525c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1984af28eeb96e20b2657070666c55e964c9a0e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_1530d7223226caf597c90af1ffc0554bb023130c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/.android/build-cache/0f55938538efa7b7a75d467ad1cecb18067f14ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfff58f09b8500e447b387ecb31ca578b8303d3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_946599934d082d3c8b93ff4dabbec325a19cd4bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alexandre/.android/build-cache/278852705cb72797c610cf44bbc2c149c6e052dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Alexandre/Documents/android/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0189055c7b3875112c3fb454f03f12a2d4674865/classes.dex" />
+    </item>
+
+</items>
